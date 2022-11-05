@@ -16,9 +16,9 @@ module.exports = {
           500: "#F7DD43",
         },
       },
-      /* backgroundImage: {
-        hero: "url(./src/assets/hero-bg.png)",
-      }, */
+      backgroundImage: {
+        "bg-cover": "url(/hero-bg.png)",
+      },
     },
   },
   plugins: [],
